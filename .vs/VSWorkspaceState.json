@@ -3,8 +3,9 @@
     "",
     "\\websiste-pizzaria",
     "\\websiste-pizzaria\\src",
-    "\\websiste-pizzaria\\src\\Footer"
+    "\\websiste-pizzaria\\src\\Componentes",
+    "\\websiste-pizzaria\\src\\Componentes\\Feature"
   ],
-  "SelectedNode": "\\websiste-pizzaria\\src\\Footer\\Footer.js",
+  "SelectedNode": "\\websiste-pizzaria\\src\\Componentes\\Feature\\index.js",
   "PreviewInSolutionExplorer": false
 }

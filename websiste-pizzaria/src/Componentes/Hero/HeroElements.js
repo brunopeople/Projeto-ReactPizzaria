@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import ImBg from '../imagens/pizza-3.jpg';
+import ImgBg from '../../imagens/pizza-3.jpg';
 
 export const HeroContainer = styled.div`
 background: linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.1)),
@@ -43,6 +43,11 @@ export const HeroH1 = styled.h1`
     margin-bottom: 1rem;
     box-shadow: 3px 5px #e9ba23;
     letter-spacing: 3px;
+`;
+
+export const HeroP = styled.p`
+    font-size: clamp(2rem, 2.5vw, 3rem);
+    margin-bottom: 2rem;
 `;
 
 export const HeroBtn = styled.button`

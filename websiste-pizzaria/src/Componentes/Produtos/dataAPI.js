@@ -20,8 +20,7 @@ export const productData = [
         img: product2,
         alt: 'Pizza',
         name: 'Paraíso Hawaiian',
-        desc: 'Molho de Marinara, brasil, molho italiano, tomates romanos, olivas e pesto',
-        'Molho',
+        desc: 'Molho de Marinara, brasil, molho italiano, tomates romanos, olivas e pesto Molho',
         price: 'R$ 19,99',
         button: 'Adiciona ao Carrinho'
     },
@@ -30,8 +29,7 @@ export const productData = [
         img: product3,
         alt: 'Pizza',
         name: 'Veggie Overload',
-        desc: 'Molho de Marinara, brasil, molho italiano, tomates romanos, olivas e pesto',
-        'Molho',
+        desc: 'Molho de Marinara, brasil, molho italiano, tomates romanos, olivas e pesto Molho',
         price: 'R$ 14,99',
         button: 'Adiciona ao Carrinho'
     }
@@ -44,7 +42,7 @@ export const productDataTwo = [
         alt: 'Rosquinhas',
         name: 'Doughlicious',
         desc:
-            'Chocolate Belga glatinado na rosquinha coberto em pequenos tiras de gelos no topo '
+            'Chocolate Belga glatinado na rosquinha coberto em pequenos tiras de gelos no topo ',
         price: 'R$ 12.99',
         button: 'Adiciona ao Carrinho'
     },

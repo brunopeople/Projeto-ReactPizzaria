@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import { GlobalStyle } from './globalStyles';
-import Hero from './Componentes/Hero';
-import Produtos from './Componentes/Produtos';
-import { productData, productDataTwo } from './Componentes/Produtos/data';
-import Feature from './Componentes/Feature';
-import Footer from './Componentes/Footer';
+import { GlobalStyle } from './GlobalStyles';
+import Hero from '../src/Componentes/Hero';
+import Produtos from '../src/Componentes/Produtos';
+import { productData, productDataTwo } from '../src/Componentes/Produtos/dataAPI';
+import Feature from '../src/Componentes/Feature';
+import Footer from '../src/Componentes/Footer';
 
 function App() {
     return (

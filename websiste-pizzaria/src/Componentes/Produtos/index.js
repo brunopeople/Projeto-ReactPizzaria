@@ -10,7 +10,7 @@ import {
     ProductDesc,
     ProductPrice,
     ProductButton
-} from './ProductElements';
+} from './ProductsElements';
 
 const Products = ({ heading, data }) => {
     return (

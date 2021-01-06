@@ -1,4 +1,4 @@
-import styled from 'styled-componentes';
+import styled from 'styled-components';
 
 export const ProductsContainer = styled.div`
     /*width: 100vw;*/
@@ -30,7 +30,7 @@ export const ProductImg = styled.img`
 
 `;
 
-export conts ProductsHeading = styled.h1`
+export const ProductsHeading = styled.h1`
     font-size: clamp(2rem, 2.5vw, 3rem);
     text-align: center;
     margin-bottom: 5rem;

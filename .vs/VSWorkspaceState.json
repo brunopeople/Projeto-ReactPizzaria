@@ -4,8 +4,12 @@
     "\\websiste-pizzaria",
     "\\websiste-pizzaria\\src",
     "\\websiste-pizzaria\\src\\Componentes",
-    "\\websiste-pizzaria\\src\\Componentes\\Feature"
+    "\\websiste-pizzaria\\src\\Componentes\\Feature",
+    "\\websiste-pizzaria\\src\\Componentes\\Footer",
+    "\\websiste-pizzaria\\src\\Componentes\\Hero",
+    "\\websiste-pizzaria\\src\\Componentes\\Navbar",
+    "\\websiste-pizzaria\\src\\Componentes\\Sidebar"
   ],
-  "SelectedNode": "\\websiste-pizzaria\\src\\Componentes\\Feature\\index.js",
+  "SelectedNode": "\\websiste-pizzaria\\src\\Componentes\\Sidebar\\SidebarElements.js",
   "PreviewInSolutionExplorer": false
 }
